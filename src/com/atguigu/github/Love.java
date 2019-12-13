@@ -2,6 +2,6 @@ package com.atguigu.github;
 
 public class Love {
 	public static void main(String[] args) {
-		System.out.println("ÄãºÃÑ½£¡£¡£¡");
+		System.out.println("ä½ å¥½å‘€ï¼ï¼ï¼");
 	}
 }
